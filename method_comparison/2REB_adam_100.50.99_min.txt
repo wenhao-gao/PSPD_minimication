@@ -1,0 +1,5 @@
+The start energy is: 30164.209
+Final energy is: 25051.168
+Iteration round used: 9
+Total time used: 3.190 seconds
+Average time per iteration: 0.35444286 seconds
